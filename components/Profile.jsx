@@ -1,6 +1,6 @@
 const Profile = () => {
   return (
-    <div>My Profile</div>
+    <div>My New Profile</div>
   );
 }
 export default Profile;
